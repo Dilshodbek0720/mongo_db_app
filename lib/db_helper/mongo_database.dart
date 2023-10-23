@@ -1,5 +1,4 @@
 import 'dart:developer';
-
 import 'package:mongo_dart/mongo_dart.dart';
 import 'package:mongo_db_app/data/models/user_model.dart';
 import 'package:mongo_db_app/db_helper/constants.dart';
